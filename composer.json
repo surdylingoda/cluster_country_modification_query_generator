@@ -1,0 +1,11 @@
+{
+    "name": "krzysztofsurdy/cluster_query_creator",
+    "autoload": {
+        "psr-4": {
+            "Krzysztofsurdy\\ClusterQueryCreator\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/uid": "^7.2"
+    }
+}
