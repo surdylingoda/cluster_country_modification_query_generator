@@ -1,4 +1,6 @@
 # Cluster query creator
+# Installation
+Run `composer install`
 ## Usage
 1. Add records to package_data.json
 
